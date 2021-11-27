@@ -34,7 +34,7 @@ def ETL_Functions():
         twenty_four_hour_header = pd.DataFrame(empty_data, columns=["24 Hour Forecast"])
         four_day_header = pd.DataFrame(empty_data, columns=["4 Day Forecast"])
         empty_row = pd.DataFrame(empty_data, columns=[""])
-        with open('Examples/Weather_Data.csv', mode='a+'):
+        with open('Weather_Data.csv', mode='a+'):
             two_hour_header.to_csv('Weather_Data.csv', mode='a', index=False)
             two_hour_df.to_csv('Weather_Data.csv', mode='a', index=False)
             empty_row.to_csv('Weather_Data.csv', mode='a', index=False, header=False)
