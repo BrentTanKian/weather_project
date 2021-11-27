@@ -1,0 +1,65 @@
+2 Hour Forecast
+""
+Area,Forecast
+Ang Mo Kio,Light Showers
+Bedok,Partly Cloudy (Day)
+Bishan,Light Showers
+Boon Lay,Partly Cloudy (Day)
+Bukit Batok,Partly Cloudy (Day)
+Bukit Merah,Partly Cloudy (Day)
+Bukit Panjang,Partly Cloudy (Day)
+Bukit Timah,Partly Cloudy (Day)
+Central Water Catchment,Light Showers
+Changi,Showers
+Choa Chu Kang,Partly Cloudy (Day)
+Clementi,Partly Cloudy (Day)
+City,Partly Cloudy (Day)
+Geylang,Partly Cloudy (Day)
+Hougang,Partly Cloudy (Day)
+Jalan Bahar,Partly Cloudy (Day)
+Jurong East,Partly Cloudy (Day)
+Jurong Island,Partly Cloudy (Day)
+Jurong West,Partly Cloudy (Day)
+Kallang,Partly Cloudy (Day)
+Lim Chu Kang,Partly Cloudy (Day)
+Mandai,Light Showers
+Marine Parade,Partly Cloudy (Day)
+Novena,Partly Cloudy (Day)
+Pasir Ris,Partly Cloudy (Day)
+Paya Lebar,Partly Cloudy (Day)
+Pioneer,Partly Cloudy (Day)
+Pulau Tekong,Showers
+Pulau Ubin,Partly Cloudy (Day)
+Punggol,Partly Cloudy (Day)
+Queenstown,Partly Cloudy (Day)
+Seletar,Light Showers
+Sembawang,Light Showers
+Sengkang,Light Showers
+Sentosa,Partly Cloudy (Day)
+Serangoon,Light Showers
+Southern Islands,Partly Cloudy (Day)
+Sungei Kadut,Light Showers
+Tampines,Partly Cloudy (Day)
+Tanglin,Partly Cloudy (Day)
+Tengah,Partly Cloudy (Day)
+Toa Payoh,Partly Cloudy (Day)
+Tuas,Partly Cloudy (Day)
+Western Islands,Partly Cloudy (Day)
+Western Water Catchment,Partly Cloudy (Day)
+Woodlands,Light Showers
+Yishun,Light Showers
+""
+24 Hour Forecast
+""
+Timings,West,East,Central,South,North
+2021-11-27 12:00:00,Partly Cloudy (Day),Showers,Partly Cloudy (Day),Partly Cloudy (Day),Showers
+2021-11-27 18:00:00,Partly Cloudy (Night),Partly Cloudy (Night),Partly Cloudy (Night),Partly Cloudy (Night),Partly Cloudy (Night)
+2021-11-28 06:00:00,Partly Cloudy (Day),Partly Cloudy (Day),Partly Cloudy (Day),Partly Cloudy (Day),Partly Cloudy (Day)
+""
+4 Day Forecast
+""
+Date,Forecast,Average Temperature,Average Humidity
+2021-11-28,Afternoon passing showers,29.0,72.5
+2021-11-29,Windy,29.0,72.5
+2021-11-30,Windy,29.0,72.5
+2021-12-01,Afternoon thundery showers,29.0,72.5
