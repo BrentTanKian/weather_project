@@ -1,7 +1,7 @@
 # Weather_project
 Scrapes the government weather api and provides detailed, granular forecasts/graphs down to a specific area and for up to 4 days ahead.
 Running the main.py script will generate a csv file with all the forecast data, and a png file with a graph that shows average temperature
-and humidity over the next 4 days. 
+and humidity over the next 4 days. Samples of the csv and png files can be found in the Examples folder.
 
 To generate a .exe file from the code so that you can simply run the script by double-clicking the exe, follow these steps.
 
